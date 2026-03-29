@@ -6,9 +6,9 @@ const config = {
   tagline: "极简风格的 AI 组织与项目管理文档站",
   favicon: "img/favicon.svg",
   url: "https://rengeai.github.io",
-  baseUrl: "/docs/",
+  baseUrl: "/docs-site/",
   organizationName: "rengeai",
-  projectName: "docs",
+  projectName: "docs-site",
   onBrokenLinks: "throw",
   trailingSlash: true,
   markdown: {
