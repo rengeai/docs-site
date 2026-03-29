@@ -75,13 +75,15 @@ const config = {
       title: "RengeAI 文档库",
       items: [
         {
-          to: "/",
+          type: "docSidebar",
+          sidebarId: "gettingStartedSidebar",
           label: "开始阅读",
           position: "left"
         },
         {
-          to: "/术语表",
-          label: "术语表",
+          type: "docSidebar",
+          sidebarId: "productGuideSidebar",
+          label: "产品指南",
           position: "left"
         },
         {
