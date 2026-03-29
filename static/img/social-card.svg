@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="#f8f9fa" stroke="#e8eaed" stroke-width="2"/>
+  <text x="120" y="220" fill="#202124" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="72" font-weight="700">
+    RengeAI 文档库
+  </text>
+  <text x="120" y="300" fill="#5f6368" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="34">
+    AI 组织、项目管理与协作机制知识库
+  </text>
+  <text x="120" y="410" fill="#1a73e8" font-family="Noto Sans SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="28" font-weight="600">
+    GitLab 协作语义 · PMP 方法论 · OKR 目标管理
+  </text>
+</svg>
